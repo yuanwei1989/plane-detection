@@ -1,0 +1,5 @@
+.idea/
+results/
+cnn_model/
+logs/
+*.pyc
